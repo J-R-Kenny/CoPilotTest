@@ -18,7 +18,7 @@ One of the easiest aspects was getting instant code suggestions as I typed, whic
 
 ## Kata Link
 
-You can find the katas that I worked on [here](<insert link to the kata here>).
+You can find the katas that I worked on *removed link*
 
 ## Conclusion
 
